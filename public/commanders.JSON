@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Adolf Hitler",
+    "born": "April 20, 1889, Austria",
+    "died": "April 30, 1945,Germany",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Hitler_portrait_crop.jpg",
+    "Age": 56,
+    "income": 20000
+  },
+  {
+    "id": 2,
+    "name": "Joseph Stalin",
+    "born": "December 18, 1878,Georgia",
+    "died": "March 5, 1953, Kuntsevo Dacha",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stalin_Full_Image.jpg/440px-Stalin_Full_Image.jpg",
+    "Age": 75,
+    "income": 30000
+  },
+  {
+    "id": 3,
+    "name": "Winston Churchill",
+    "born": "November 30, 1874,United Kingdom",
+    "died": "January 24, 1965,United Kingdom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/440px-Sir_Winston_Churchill_-_19086236948.jpg",
+    "Age": 90,
+    "income": 50000
+  },
+  {
+    "id": 4,
+    "name": "Benito Mussolini",
+    "born": "July 29, 1883, Italy",
+    "died": "April 28, 1945, Italy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mussolini_biografia.jpg",
+    "Age": 62,
+    "income": 20000
+  },
+  {
+    "id": 5,
+    "name": "Michinomiya Hirohito",
+    "born": "April 29, 1901, Japan",
+    "died": " January 7, 1989, Japan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Emperor_Showa_in_dress.jpg/440px-Emperor_Showa_in_dress.jpg",
+    "Age": 88,
+    "income": 25000
+  },
+  {
+    "id": 6,
+    "name": "Josip Broz Tito",
+    "born": "May 7, 1892, Croatia",
+    "died": "May 4, 1980, Slovenia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Josip_Broz_Tito_uniform_portrait.jpg/440px-Josip_Broz_Tito_uniform_portrait.jpg",
+    "Age": 88,
+    "income": 29000
+  },
+  {
+    "id": 7,
+    "name": "Hideki Tojo",
+    "born": "December 30, 1884, Japan",
+    "died": "December 23, 1948, Sugamo Prison",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Hideki_Tojo2_%28cropped%29.jpg",
+    "Age": 64,
+    "income": 35000
+  },
+  {
+    "id": 8,
+    "name": "Mao Zedong",
+    "born": " December 26, 1893, China",
+    "died": "September 9, 1976, China",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mao_Zedong_in_1959_%28cropped%29.jpg/440px-Mao_Zedong_in_1959_%28cropped%29.jpg",
+    "Age": 83,
+    "income": 40000
+  },
+  {
+    "id": 9,
+    "name": "Charles de Gaulle",
+    "born": " November 22, 1890, France",
+    "died": "November 9, 1970, France",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/De_Gaulle-OWI_%28cropped%29-%28d%29.jpg/440px-De_Gaulle-OWI_%28cropped%29-%28d%29.jpg",
+    "Age": 80,
+    "income": 33000
+  }
+]

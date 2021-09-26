@@ -1,0 +1,11 @@
+.main-section {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.commando-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  border-right: 1px solid lightgray;
+  margin-right: 5px;
+  margin-left: 50px;
+}

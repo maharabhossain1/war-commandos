@@ -1,0 +1,29 @@
+.single-data {
+  width: 15rem;
+  background-color: black;
+  margin: 1rem;
+}
+.commando-img {
+  text-align: center;
+}
+.commando-img img {
+  width: 80%;
+}
+.commando-info {
+  width: 80%;
+  margin: auto;
+  /* text-align: center; */
+  color: cornsilk;
+}
+.btn {
+  /* line-height: 20px; */
+  margin-bottom: 1em;
+  padding: 5% 10%;
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+  background-color: wheat;
+}
+.btn:hover {
+  background-color: white;
+}
