@@ -13,12 +13,14 @@ export default function Cart({ cart }) {
       <h3>Your Total Cost for FWT is : ${total}</h3>
       <div className="hero-name">
         {cart.map((info) => (
-          <h3 key={info.id}>
-            Name: {info.name}{" "}
-            <span>
+          <div className="mini-cart">
+            <div className="name-only">
+              <h3 key={info.id}>Name: {info.name}</h3>
+            </div>
+            <div className="mini-cart-img">
               <img src={info.image} alt={info.name} />
-            </span>{" "}
-          </h3>
+            </div>
+          </div>
         ))}
       </div>
     </div>
