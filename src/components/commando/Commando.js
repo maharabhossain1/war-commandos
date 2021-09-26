@@ -1,5 +1,6 @@
 import React from "react";
 import "./Commando.css";
+import { FaBookmark } from "react-icons/fa";
 
 export default function Commando({ commandoInfo, handleClick }) {
   const { name, born, died, image, income, Age } = commandoInfo;
@@ -19,7 +20,7 @@ export default function Commando({ commandoInfo, handleClick }) {
           type="button"
           className="btn"
         >
-          Add Commanders
+          <FaBookmark className="icons" /> Add Commanders
         </button>
       </div>
     </div>
