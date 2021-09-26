@@ -2,7 +2,7 @@ import React from "react";
 import "./Cart.css";
 
 export default function Cart({ cart }) {
-  console.log(cart);
+  // total cost calculaton
   let total = 0;
   for (let singleCart of cart) {
     total = total + singleCart.income;
@@ -13,6 +13,7 @@ export default function Cart({ cart }) {
       <h3>Your Total Cost for FWT is : ${total}</h3>
       <div className="hero-name">
         {cart.map((info) => (
+          // adding name and image into the cart
           <div className="mini-cart">
             <div className="name-only">
               <h3 key={info.id}>Name: {info.name}</h3>

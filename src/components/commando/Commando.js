@@ -1,8 +1,10 @@
 import React from "react";
 import "./Commando.css";
+// front awsome icon
 import { FaBookmark } from "react-icons/fa";
 
 export default function Commando({ commandoInfo, handleClick }) {
+  // destucturing data
   const { name, born, died, image, income, Age } = commandoInfo;
   return (
     <div className="single-data">

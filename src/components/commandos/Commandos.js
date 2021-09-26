@@ -7,11 +7,13 @@ import Cart from "../cart/Cart";
 export default function Commandos() {
   const [commandos, setCommandos] = useState([]);
   const [cart, setCart] = useState([]);
+  // event handler function
   const handleClick = (element) => {
     const newCart = [...cart, element];
     setCart(newCart);
     console.log(element);
   };
+  // data fetching from public folder
   useEffect(() => {
     fetch("./commanders.JSON")
       .then((res) => res.json())
